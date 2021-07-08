@@ -9,6 +9,8 @@
   "author": "Lindo ngubane",
   "license": "ISC",
   "dependencies": {
-    "pouchdb": "^7.2.2"
+    "chalk": "^4.1.1",
+    "pouchdb": "^7.2.2",
+    "sqlite3": "^5.0.2"
   }
 }
